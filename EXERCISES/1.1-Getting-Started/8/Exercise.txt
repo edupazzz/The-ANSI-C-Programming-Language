@@ -1,0 +1,1 @@
+Escreva um programa para contar espaços em branco, tabs e novas linhas.

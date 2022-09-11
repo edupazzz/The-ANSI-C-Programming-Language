@@ -1,0 +1,1 @@
+Verifique se a expressão "getchar() != EOF" é 0 ou 1.

@@ -1,0 +1,2 @@
+Escreva um programa para escrever na tela o correspondente de Celsius para
+Farenheit em uma tabela.

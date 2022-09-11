@@ -1,0 +1,2 @@
+Escreva um programa que copia a entrada para a saída, substituindo 
+cada tab por '\t', cada backspace por '\b', e cada backslash por '\\'.

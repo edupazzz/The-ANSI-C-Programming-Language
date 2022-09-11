@@ -1,0 +1,2 @@
+Escreva um programa que copia a entrada para a saída, substituindo cada string
+de espaço em branco (com um ou mais espaços) por um único espaço em branco.

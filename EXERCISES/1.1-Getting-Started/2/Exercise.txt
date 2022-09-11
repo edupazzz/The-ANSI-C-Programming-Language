@@ -1,0 +1,2 @@
+Experimente descobrir oque acontec quando na string do argumento em 'printf'
+contém um '\c', quando c é algum caractere não listado.

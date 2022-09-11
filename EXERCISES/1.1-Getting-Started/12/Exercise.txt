@@ -1,0 +1,1 @@
+Escreva um programa que mostra as entradas uma em cada linha.
